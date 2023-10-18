@@ -1,0 +1,3730 @@
+{
+  "keywords": "Iphone",
+  "paging": {
+      "total": 10,
+      "limit": 10,
+      "offset": 0
+  },
+  "results": [
+      {
+          "id": "MLA11555349",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 32 GB  plata A1549",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312149",
+                  "value_name": "iPhone 6"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "121335",
+                  "value_name": "A1549"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573651",
+                  "value_name": "Plata"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59725",
+                  "value_name": "32 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "6877626",
+                  "value_name": "4.7 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199624",
+                  "value_name": "750 px x 1334 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "165687",
+                  "value_name": "1810 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "522888",
+                  "value_name": "129 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6892032",
+                  "value_name": "138.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "3524995",
+                  "value_name": "67 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6892027",
+                  "value_name": "6.9 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058235",
+                  "value_name": "326 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7024660",
+                  "value_name": "250 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "6877629",
+                  "value_name": "14 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "674517-MLA28270587136_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_674517-MLA28270587136_102018-F.jpg"
+              },
+              {
+                  "id": "715916-MLA28270540451_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_715916-MLA28270540451_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA6077716",
+          "children_ids": [],
+          "quality_type": "COMPLETE"
+      },
+      {
+          "id": "MLA11555351",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 32 GB  oro A1549",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312149",
+                  "value_name": "iPhone 6"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "121335",
+                  "value_name": "A1549"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573649",
+                  "value_name": "Oro"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59725",
+                  "value_name": "32 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450289",
+                  "value_name": "Dorado"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "6877626",
+                  "value_name": "4.7 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199624",
+                  "value_name": "750 px x 1334 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "165687",
+                  "value_name": "1810 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "522888",
+                  "value_name": "129 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6892032",
+                  "value_name": "138.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "3524995",
+                  "value_name": "67 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6892027",
+                  "value_name": "6.9 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058235",
+                  "value_name": "326 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7024660",
+                  "value_name": "250 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "6877629",
+                  "value_name": "14 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "844525-MLA28270987082_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_844525-MLA28270987082_102018-F.jpg"
+              },
+              {
+                  "id": "902389-MLA28270987084_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_902389-MLA28270987084_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA6077716",
+          "children_ids": [],
+          "quality_type": "COMPLETE"
+      },
+      {
+          "id": "MLA11555352",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 32 GB  plata A1586",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312149",
+                  "value_name": "iPhone 6"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "121336",
+                  "value_name": "A1586"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573651",
+                  "value_name": "Plata"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59725",
+                  "value_name": "32 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "6877626",
+                  "value_name": "4.7 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199624",
+                  "value_name": "750 px x 1334 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "165687",
+                  "value_name": "1810 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "522888",
+                  "value_name": "129 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6892032",
+                  "value_name": "138.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "3524995",
+                  "value_name": "67 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6892027",
+                  "value_name": "6.9 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058235",
+                  "value_name": "326 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7024660",
+                  "value_name": "250 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "6877629",
+                  "value_name": "14 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "674517-MLA28270587136_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_674517-MLA28270587136_102018-F.jpg"
+              },
+              {
+                  "id": "715916-MLA28270540451_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_715916-MLA28270540451_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA6077719",
+          "children_ids": [],
+          "quality_type": "COMPLETE"
+      },
+      {
+          "id": "MLA11555353",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 32 GB  gris espacial A1586",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312149",
+                  "value_name": "iPhone 6"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "121336",
+                  "value_name": "A1586"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "162060",
+                  "value_name": "Gris espacial"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59725",
+                  "value_name": "32 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "6877626",
+                  "value_name": "4.7 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199624",
+                  "value_name": "750 px x 1334 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "165687",
+                  "value_name": "1810 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "522888",
+                  "value_name": "129 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6892032",
+                  "value_name": "138.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "3524995",
+                  "value_name": "67 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6892027",
+                  "value_name": "6.9 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058235",
+                  "value_name": "326 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7024660",
+                  "value_name": "250 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "6877629",
+                  "value_name": "14 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "710693-MLA28270990049_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_710693-MLA28270990049_102018-F.jpg"
+              },
+              {
+                  "id": "881514-MLA28270961774_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_881514-MLA28270961774_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA6077719",
+          "children_ids": [],
+          "quality_type": "COMPLETE"
+      },
+      {
+          "id": "MLA11555354",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 32 GB  oro A1586",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312149",
+                  "value_name": "iPhone 6"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "121336",
+                  "value_name": "A1586"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573649",
+                  "value_name": "Oro"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59725",
+                  "value_name": "32 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450289",
+                  "value_name": "Dorado"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "6877626",
+                  "value_name": "4.7 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199624",
+                  "value_name": "750 px x 1334 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "165687",
+                  "value_name": "1810 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "522888",
+                  "value_name": "129 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6892032",
+                  "value_name": "138.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "3524995",
+                  "value_name": "67 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6892027",
+                  "value_name": "6.9 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058235",
+                  "value_name": "326 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7024660",
+                  "value_name": "250 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "6877629",
+                  "value_name": "14 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "844525-MLA28270987082_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_844525-MLA28270987082_102018-F.jpg"
+              },
+              {
+                  "id": "902389-MLA28270987084_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_902389-MLA28270987084_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA6077719",
+          "children_ids": [],
+          "quality_type": "COMPLETE"
+      },
+      {
+          "id": "MLA11555356",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 Plus 16 GB  plata A1593",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312150",
+                  "value_name": "iPhone 6 Plus"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "4526028",
+                  "value_name": "A1593"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573651",
+                  "value_name": "Plata"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59561",
+                  "value_name": "16 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "4428482",
+                  "value_name": "5.5 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199626",
+                  "value_name": "1080 px x 1920 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "7067372",
+                  "value_name": "2915 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "6780742",
+                  "value_name": "172 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6893748",
+                  "value_name": "158.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "7067369",
+                  "value_name": "77.8 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6877632",
+                  "value_name": "7.1 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058226",
+                  "value_name": "401 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7067370",
+                  "value_name": "384 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "7058238",
+                  "value_name": "24 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "573215-MLA25146749117_112016",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_573215-MLA25146749117_112016-F.jpg"
+              },
+              {
+                  "id": "952224-MLA28270961778_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_952224-MLA28270961778_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA11555355",
+          "children_ids": []
+      },
+      {
+          "id": "MLA11555357",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 Plus 16 GB  gris espacial A1593",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312150",
+                  "value_name": "iPhone 6 Plus"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "4526028",
+                  "value_name": "A1593"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "162060",
+                  "value_name": "Gris espacial"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59561",
+                  "value_name": "16 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "4428482",
+                  "value_name": "5.5 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199626",
+                  "value_name": "1080 px x 1920 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "7067372",
+                  "value_name": "2915 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "6780742",
+                  "value_name": "172 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6893748",
+                  "value_name": "158.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "7067369",
+                  "value_name": "77.8 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6877632",
+                  "value_name": "7.1 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058226",
+                  "value_name": "401 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7067370",
+                  "value_name": "384 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "7058238",
+                  "value_name": "24 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "985115-MLA25146808357_112016",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_985115-MLA25146808357_112016-F.jpg"
+              },
+              {
+                  "id": "767760-MLA28270990056_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_767760-MLA28270990056_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA11555355",
+          "children_ids": []
+      },
+      {
+          "id": "MLA11555358",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 Plus 16 GB  oro A1593",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312150",
+                  "value_name": "iPhone 6 Plus"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "4526028",
+                  "value_name": "A1593"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573649",
+                  "value_name": "Oro"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59561",
+                  "value_name": "16 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450289",
+                  "value_name": "Dorado"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "4428482",
+                  "value_name": "5.5 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199626",
+                  "value_name": "1080 px x 1920 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "7067372",
+                  "value_name": "2915 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "6780742",
+                  "value_name": "172 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6893748",
+                  "value_name": "158.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "7067369",
+                  "value_name": "77.8 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6877632",
+                  "value_name": "7.1 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058226",
+                  "value_name": "401 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7067370",
+                  "value_name": "384 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "7058238",
+                  "value_name": "24 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "628593-MLA28270966737_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_628593-MLA28270966737_102018-F.jpg"
+              },
+              {
+                  "id": "829938-MLA28270944420_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_829938-MLA28270944420_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA11555355",
+          "children_ids": []
+      },
+      {
+          "id": "MLA11555359",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 Plus 64 GB  plata A1593",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312150",
+                  "value_name": "iPhone 6 Plus"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "4526028",
+                  "value_name": "A1593"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "10573651",
+                  "value_name": "Plata"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59726",
+                  "value_name": "64 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "4428482",
+                  "value_name": "5.5 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199626",
+                  "value_name": "1080 px x 1920 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "7067372",
+                  "value_name": "2915 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "6780742",
+                  "value_name": "172 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6893748",
+                  "value_name": "158.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "7067369",
+                  "value_name": "77.8 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6877632",
+                  "value_name": "7.1 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058226",
+                  "value_name": "401 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7067370",
+                  "value_name": "384 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "7058238",
+                  "value_name": "24 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "573215-MLA25146749117_112016",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_573215-MLA25146749117_112016-F.jpg"
+              },
+              {
+                  "id": "952224-MLA28270961778_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_952224-MLA28270961778_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA11555355",
+          "children_ids": []
+      },
+      {
+          "id": "MLA11555360",
+          "status": "active",
+          "domain_id": "MLA-CELLPHONES",
+          "settings": {
+              "listing_strategy": "catalog_required"
+          },
+          "name": " iPhone 6 Plus 64 GB  gris espacial A1593",
+          "main_features": [],
+          "attributes": [
+              {
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple"
+              },
+              {
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "58993",
+                  "value_name": "iPhone"
+              },
+              {
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": "312150",
+                  "value_name": "iPhone 6 Plus"
+              },
+              {
+                  "id": "VERSION",
+                  "name": "Versión",
+                  "value_id": "4526028",
+                  "value_name": "A1593"
+              },
+              {
+                  "id": "IS_DUAL_SIM",
+                  "name": "Es Dual SIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "162060",
+                  "value_name": "Gris espacial"
+              },
+              {
+                  "id": "INTERNAL_MEMORY",
+                  "name": "Memoria interna",
+                  "value_id": "59726",
+                  "value_name": "64 GB"
+              },
+              {
+                  "id": "RAM",
+                  "name": "Memoria RAM",
+                  "value_id": "98978",
+                  "value_name": "1 GB"
+              },
+              {
+                  "id": "MAIN_COLOR",
+                  "name": "Color principal",
+                  "value_id": "2450294",
+                  "value_name": "Gris"
+              },
+              {
+                  "id": "SIM_CARD_SLOTS_NUMBER",
+                  "name": "Cantidad de ranuras para tarjeta SIM",
+                  "value_id": "2087812",
+                  "value_name": "1"
+              },
+              {
+                  "id": "OPERATING_SYSTEM_NAME",
+                  "name": "Nombre del sistema operativo",
+                  "value_id": "7404961",
+                  "value_name": "iOS"
+              },
+              {
+                  "id": "MOBILE_NETWORK",
+                  "name": "Red móvil",
+                  "value_id": "367876",
+                  "value_name": "4G/LTE"
+              },
+              {
+                  "id": "PROCESSOR_MODEL",
+                  "name": "Modelo del procesador",
+                  "value_id": "6945997",
+                  "value_name": "Apple A8"
+              },
+              {
+                  "id": "PROCESSOR_SPEED",
+                  "name": "Velocidad del procesador",
+                  "value_id": "1151166",
+                  "value_name": "1.4 GHz"
+              },
+              {
+                  "id": "OS_ORIGINAL_VERSION",
+                  "name": "Versión original del sistema operativo",
+                  "value_id": "4830894",
+                  "value_name": "8"
+              },
+              {
+                  "id": "OS_LAST_COMPATIBLE_VERSION",
+                  "name": "Última versión compatible del sistema operativo",
+                  "value_id": "9548296",
+                  "value_name": "12"
+              },
+              {
+                  "id": "DISPLAY_SIZE",
+                  "name": "Tamaño de la pantalla",
+                  "value_id": "4428482",
+                  "value_name": "5.5 \""
+              },
+              {
+                  "id": "DISPLAY_RESOLUTION",
+                  "name": "Resolución de la pantalla",
+                  "value_id": "7199626",
+                  "value_name": "1080 px x 1920 px"
+              },
+              {
+                  "id": "MAIN_REAR_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara trasera principal",
+                  "value_id": "7199614",
+                  "value_name": "8 Mpx"
+              },
+              {
+                  "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara trasera",
+                  "value_id": "7199621",
+                  "value_name": "1920 px x 1080 px"
+              },
+              {
+                  "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+                  "name": "Resolución de la cámara frontal principal",
+                  "value_id": "7199619",
+                  "value_name": "1.2 Mpx"
+              },
+              {
+                  "id": "BATTERY_CAPACITY",
+                  "name": "Capacidad de la batería",
+                  "value_id": "7067372",
+                  "value_name": "2915 mAh"
+              },
+              {
+                  "id": "WITH_FINGERPRINT_READER",
+                  "name": "Con lector de huella digital",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "COMPATIBLE_SIM_CARD_SIZES",
+                  "name": "Tamaños de tarjeta SIM compatibles",
+                  "value_name": "Nano-SIM"
+              },
+              {
+                  "id": "DISPLAY_TECHNOLOGY",
+                  "name": "Tecnología de la pantalla",
+                  "value_id": "80490",
+                  "value_name": "IPS"
+              },
+              {
+                  "id": "REAR_CAMERA_APERTURE",
+                  "name": "Apertura del diafragma de la cámara trasera",
+                  "value_id": "7549378",
+                  "value_name": "f 2.2"
+              },
+              {
+                  "id": "CPU_MODELS",
+                  "name": "Modelos de CPU",
+                  "value_name": "2x1.4 GHz Typhoon"
+              },
+              {
+                  "id": "BATTERY_TYPE",
+                  "name": "Tipo de batería",
+                  "value_id": "95013",
+                  "value_name": "Ion de litio"
+              },
+              {
+                  "id": "REAR_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras traseras",
+                  "value_id": "7477198",
+                  "value_name": "1"
+              },
+              {
+                  "id": "FRONT_CAMERAS_NUMBER",
+                  "name": "Cantidad de cámaras frontales",
+                  "value_id": "7477216",
+                  "value_name": "1"
+              },
+              {
+                  "id": "PROCESSOR_CORES_NUMBER",
+                  "name": "Cantidad de núcleos del procesador",
+                  "value_id": "7199623",
+                  "value_name": "2"
+              },
+              {
+                  "id": "WEIGHT",
+                  "name": "Peso",
+                  "value_id": "6780742",
+                  "value_name": "172 g"
+              },
+              {
+                  "id": "HEIGHT",
+                  "name": "Altura",
+                  "value_id": "6893748",
+                  "value_name": "158.1 mm"
+              },
+              {
+                  "id": "WIDTH",
+                  "name": "Ancho",
+                  "value_id": "7067369",
+                  "value_name": "77.8 mm"
+              },
+              {
+                  "id": "DEPTH",
+                  "name": "Profundidad",
+                  "value_id": "6877632",
+                  "value_name": "7.1 mm"
+              },
+              {
+                  "id": "DISPLAY_PIXELS_PER_INCH",
+                  "name": "Píxeles por pulgada de la pantalla",
+                  "value_id": "7058226",
+                  "value_name": "401 ppi"
+              },
+              {
+                  "id": "MAX_DISPLAY_BRIGHTNESS",
+                  "name": "Brillo máximo de la pantalla",
+                  "value_id": "1160581",
+                  "value_name": "500 cd/m²"
+              },
+              {
+                  "id": "DIGITAL_ZOOM",
+                  "name": "Zoom digital",
+                  "value_id": "7199622",
+                  "value_name": "3x"
+              },
+              {
+                  "id": "STANDBY_TIME",
+                  "name": "Duración de la batería en espera",
+                  "value_id": "7067370",
+                  "value_name": "384 h"
+              },
+              {
+                  "id": "TALK_TIME",
+                  "name": "Tiempo de conversación",
+                  "value_id": "7058238",
+                  "value_name": "24 h"
+              },
+              {
+                  "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+                  "name": "Resolución de video de la cámara frontal",
+                  "value_id": "7180687",
+                  "value_name": "1280 px x 720 px"
+              },
+              {
+                  "id": "WITH_ESIM",
+                  "name": "Con eSIM",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TOUCHSCREEN_DISPLAY",
+                  "name": "Con pantalla táctil",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+                  "name": "Con teclado QWERTY físico",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_CAMERA",
+                  "name": "Con cámara",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_FRONT_CAMERA_FLASH",
+                  "name": "Con flash en la cámara frontal",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_USB_CONNECTOR",
+                  "name": "Con conector USB",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_WIFI",
+                  "name": "Con Wi-Fi",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GPS",
+                  "name": "Con GPS",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_BLUETOOTH",
+                  "name": "Con Bluetooth",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_MINI_HDMI",
+                  "name": "Con mini HDMI",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_RADIO",
+                  "name": "Con radio",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_TV_TUNER",
+                  "name": "Con sintonizador de TV",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_ACCELEROMETER",
+                  "name": "Con acelerómetro",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_PROXIMITY_SENSOR",
+                  "name": "Con sensor de proximidad",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "WITH_GYROSCOPE",
+                  "name": "Con giroscopio",
+                  "value_id": "242085",
+                  "value_name": "Sí"
+              },
+              {
+                  "id": "IS_WATERPROOF",
+                  "name": "Es a prueba de agua",
+                  "value_id": "242084",
+                  "value_name": "No"
+              },
+              {
+                  "id": "WITH_REMOVABLE_BATTERY",
+                  "name": "Con batería removible",
+                  "value_id": "242084",
+                  "value_name": "No"
+              }
+          ],
+          "pictures": [
+              {
+                  "id": "985115-MLA25146808357_112016",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_985115-MLA25146808357_112016-F.jpg"
+              },
+              {
+                  "id": "767760-MLA28270990056_102018",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_767760-MLA28270990056_102018-F.jpg"
+              }
+          ],
+          "parent_id": "MLA11555355",
+          "children_ids": []
+      }
+  ],
+  "used_attributes": [
+      {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "9344",
+          "value_name": "Apple"
+      },
+      {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "58993",
+          "value_name": "iPhone"
+      }
+  ],
+  "query_type": "PRODUCT_NAME"
+}

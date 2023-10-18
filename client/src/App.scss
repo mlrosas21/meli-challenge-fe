@@ -1,4 +1,11 @@
-div{
-  background-color: chocolate;
-  margin: auto;
+@import 'styles/colors';
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  width: 100%;
 }

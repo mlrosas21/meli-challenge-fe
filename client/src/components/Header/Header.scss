@@ -1,8 +1,10 @@
 @import '@styles/colors.scss';
 
-header {
-  position: fixed;
-  top: 0;
+main{
+  background-color: $grey;
+  
+  header {
+    top: 0;
   background-color: $primary-color;
   width: 100%;
   display: flex;
@@ -10,11 +12,11 @@ header {
   padding: 1rem 10rem;
   justify-content: center;
   gap: 1.5rem;
-
+  
   .imageContainer{
     width: auto;
     margin: auto;
     display: flex;
   }
-
+}
 }

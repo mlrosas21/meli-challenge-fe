@@ -9,7 +9,8 @@ export default defineConfig({
       { find: "@assets", replacement: "/src/assets" }, 
       { find: "@components", replacement: "/src/components" }, 
       { find: "@data", replacement: "/src/data" },
-      { find: "@styles", replacement: "/src/styles" }
+      { find: "@styles", replacement: "/src/styles" },
+      { find: "@routes", replacement: "/src/routes" }
     ],
   },
   plugins: [react()],

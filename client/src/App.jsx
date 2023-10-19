@@ -1,14 +1,21 @@
-import { useState } from 'react'
-import './App.scss'
+import "@styles/globals.scss";
+import Header from "@components/Header/Header";
+import SearchResults from "@components/SearchResults/SearchResults";
+import { Routes, Route } from "react-router-dom";
+import ProductDetails from "./components/ProductDetails/ProductDetails";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <h1>FRONT END CHALLENGE - Martín Rosas</h1>
+      <Header />
+      <Routes>
+        <Route path="/" />
+        <Route path="/items" element={<SearchResults />} />
+        <Route path="/items/:id" element={<ProductDetails />} />
+        <Route path="*" element={<h1>Not Found </h1>} />
+      </Routes>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

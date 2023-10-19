@@ -6,7 +6,7 @@ import ProductDetails from "./components/ProductDetails/ProductDetails";
 
 function App() {
   return (
-    <>
+    <main>
       <Header />
       <Routes>
         <Route path="/" />
@@ -14,7 +14,7 @@ function App() {
         <Route path="/items/:id" element={<ProductDetails />} />
         <Route path="*" element={<h1>Not Found </h1>} />
       </Routes>
-    </>
+    </main>
   );
 }
 

@@ -1,0 +1,28 @@
+.itemCard {
+  display: flex;
+  padding: 2rem;
+
+  .imageContainer {
+    padding: 0.5rem;
+    width: auto;
+
+    img {
+      height: 100%;
+    }
+  }
+
+  .itemMainInfo {
+    display: flex;
+    flex-direction: column;
+
+    .itemPrice{
+      padding: 0.5rem 0;
+      line-height: 1.25;
+      font-size: 24px;
+    }
+
+    .itemName{
+      font-size: 16px;
+    }
+  }
+}

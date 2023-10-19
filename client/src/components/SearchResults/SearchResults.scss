@@ -1,0 +1,20 @@
+@import '@styles/colors.scss';
+
+.container{
+  height: 100%;
+  width: 80vw;
+  margin: auto;
+  
+  .itemsList{
+    list-style: none;
+    background-color: $white;
+    
+    li {
+      border-bottom: 1px solid $grey; 
+    }
+    
+    li:last-child {
+      border-bottom: none;
+    }
+  }
+}

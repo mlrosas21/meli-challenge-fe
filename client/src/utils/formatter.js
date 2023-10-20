@@ -1,13 +1,22 @@
-export function formatMoney(integerPart, decimalPart) {
-  if (typeof integerPart !== 'number' || typeof decimalPart !== 'number') {
+export function formatMoney(number) {
+  if (typeof number !== 'number') {
     return 'Invalid input';
   }
 
-  const number = integerPart + decimalPart / 100;
-
-  const parts = number.toFixed(2).toString().split('.');
+  const parts = number.toString().split('.');
 
   parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 
-  return parts.join(',');
+  return parts[0];
+}
+
+
+
+export function formatCondition(itemCondition){
+  const CONDITION = {
+    new: 'Nuevo',
+    used: 'Usado'
+  }
+
+  return CONDITION[itemCondition]
 }

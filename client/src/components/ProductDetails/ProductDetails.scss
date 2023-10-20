@@ -1,75 +1,79 @@
-@import '@styles/colors.scss';
+@import "@styles/colors.scss";
 
-article{
-  padding: 2rem;
-  display: flex;
+.container {
+  height: 100%;
   width: 80vw;
   margin: auto;
-  background-color: $white;
-  gap: 1rem;
 
-  @media (max-width: 768px) {
-    flex-direction: column; 
-    flex-direction: column-reverse;
-  }
-
-  div{
+  article {
+    padding: 2rem;
     display: flex;
-    flex-direction: column;
-    flex: 2;
-
-    img {
-      max-width: 100%;
-      height: 250px;
-      object-fit: contain; /* This property will ensure the entire image fits inside the container without distorting it. */
-    }
-    
-    .description{
-      display: flex;
-      flex-direction: column;
-
-      h2 {
-        padding-bottom: 1.5rem;
-      }
-      
-      p{
-        color: $dark-grey;
-      }
-    }
-  }
-
-  .mainInfo{
-    flex: 1;
-    display: flex;
-    flex-direction: column;
+    margin: auto;
+    background-color: $white;
     gap: 1rem;
 
-    h1{
-      font-size: 1.5rem;
-      font-weight: 600;
+    @media (max-width: 768px) {
+      flex-direction: column;
+      flex-direction: column-reverse;
     }
 
-    .price{
-      line-height: 1;
-      font-size: 2.5rem;
+    div {
+      display: flex;
+      flex-direction: column;
+      flex: 2;
+
+      img {
+        max-width: 100%;
+        height: 250px;
+        object-fit: contain; /* This property will ensure the entire image fits inside the container without distorting it. */
+      }
+
+      .description {
+        display: flex;
+        flex-direction: column;
+
+        h2 {
+          padding-bottom: 1.5rem;
+        }
+
+        p {
+          color: $dark-grey;
+        }
+      }
     }
 
-    button {
-      margin: 2rem 0;
-      width: auto;
-      padding: 0 24px;
-      height: 48px;
-      line-height: 48px;
-      background-color: $blue;
-      border: none;
-      color: $white;
-      font-size: 16px;
-      font-weight: 600;
-      border-radius: 6px;
-      text-align: center;
-      display: inline-block;
-      -webkit-font-smoothing: antialiased;
+    .mainInfo {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+
+      h1 {
+        font-size: 1.5rem;
+        font-weight: 600;
+      }
+
+      .price {
+        line-height: 1;
+        font-size: 2.5rem;
+      }
+
+      button {
+        margin: 2rem 0;
+        width: auto;
+        padding: 0 24px;
+        height: 48px;
+        line-height: 48px;
+        background-color: $blue;
+        border: none;
+        color: $white;
+        font-size: 16px;
+        font-weight: 600;
+        border-radius: 6px;
+        text-align: center;
+        display: inline-block;
+        -webkit-font-smoothing: antialiased;
+      }
     }
-    
   }
 }

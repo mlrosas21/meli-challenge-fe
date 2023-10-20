@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { getItem } from "@service/items";
 import { formatMoney, formatCondition } from "@utils/formatter";
-
+import Breadcrumbs from "@components/Breadcrumbs/Breadcrumbs";
 
 function ProductDetails() {
   const { id } = useParams();
@@ -20,6 +20,8 @@ function ProductDetails() {
 
   return (
     itemDetails && (
+      <div className='container'>
+      <Breadcrumbs categories={itemDetails.categories} />
       <article>
         <div>
           <img src={itemDetails.picture} alt={itemDetails.title} />
@@ -35,6 +37,7 @@ function ProductDetails() {
           <button>Comprar</button>
         </section>
       </article>
+      </div>
     )
   );
 }

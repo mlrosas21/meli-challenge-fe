@@ -1,6 +1,6 @@
 export const getItems = (query) => {
 
-  return fetch(`https://api.mercadolibre.com/sites/MLA/search?q=${query}&limit=4`)
+  return fetch(`/api/items?search=${query}`)
     .then(response => {
       if (!response.ok) {
         throw new Error(`Response not OK`);
@@ -17,7 +17,7 @@ export const getItems = (query) => {
 }
 
 export const getItem = (idItem) => {
-  return fetch(`https://api.mercadolibre.com/items/${idItem}`)
+  return fetch(`/api/items/${idItem}`)
     .then(response => {
       if (!response.ok) {
         throw new Error(`Response not OK`);
@@ -25,7 +25,6 @@ export const getItem = (idItem) => {
       return response.json();
     })
     .then(data => {
-      console.log(data)
       return data;
     })
     .catch(error => {

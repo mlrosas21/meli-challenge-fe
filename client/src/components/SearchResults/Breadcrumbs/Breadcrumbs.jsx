@@ -1,11 +1,9 @@
 import './Breadcrumbs.scss'
 
-function Breadcrumbs({filters}) {
-  const paths = filters.values[0].path_from_root
-
+function Breadcrumbs({categories}) {
   return (
     <div className='breadcrumbs'>
-      {paths.map(path => path.name).join(' > ')}
+      {categories.join(' > ')}
     </div>
   )
 }

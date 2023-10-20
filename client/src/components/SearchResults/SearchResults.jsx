@@ -29,11 +29,11 @@ function SearchResults() {
     response && (
       <div className="container">
         <Breadcrumbs
-          filters={response.filters.find((filter) => filter.id === "category")}
+          categories={response.categories}
         />
         <ul className="itemsList">
-          {response.results.length > 0 &&
-            response.results.map((item) => (
+          {response.items.length > 0 &&
+            response.items.map((item) => (
               <li key={item.id}>
                 {" "}
                 <SearchItem item={item} />{" "}

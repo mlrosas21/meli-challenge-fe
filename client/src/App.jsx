@@ -12,7 +12,6 @@ function App() {
         <Route path="/" />
         <Route path="/items" element={<SearchResults />} />
         <Route path="/items/:id" element={<ProductDetails />} />
-        <Route path="*" element={<h1>Not Found </h1>} />
       </Routes>
     </main>
   );

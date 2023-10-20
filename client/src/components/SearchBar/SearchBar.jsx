@@ -9,7 +9,10 @@ function SearchBar() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    navigate(`/items?search=${searchTerm}`)
+    const trimmedSearchTerm = searchTerm.trim();
+    if (trimmedSearchTerm === '') return
+    console.log(trimmedSearchTerm);
+    navigate(`/items?search=${trimmedSearchTerm}`);
   };
 
   return (

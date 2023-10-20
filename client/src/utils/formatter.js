@@ -15,7 +15,8 @@ export function formatMoney(number) {
 export function formatCondition(itemCondition){
   const CONDITION = {
     new: 'Nuevo',
-    used: 'Usado'
+    used: 'Usado',
+    not_specified: 'Sin especificar'
   }
 
   return CONDITION[itemCondition]

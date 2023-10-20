@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { getItems } from "@service/items";
 import SearchItem from "./SearchItem/SearchItem";
-import Breadcrumbs from "./Breadcrumbs/Breadcrumbs";
+import Breadcrumbs from "@components/Breadcrumbs/Breadcrumbs";
 
 function SearchResults() {
   const [searchParams] = useSearchParams();

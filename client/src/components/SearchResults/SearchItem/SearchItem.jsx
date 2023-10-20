@@ -1,5 +1,5 @@
 import "./SearchItem.scss";
-import { formatMoney } from '@utils/formatter'
+import { formatMoney } from "@utils/formatter";
 
 function SearchItem({ item }) {
   const { id, title, price, thumbnail, address } = item;
@@ -10,9 +10,7 @@ function SearchItem({ item }) {
 
   return (
     <article className="itemCard" onClick={() => handleClick(id)}>
-      <div className="imageContainer">
-        <img src={thumbnail} alt={title} />
-      </div>
+      <img src={thumbnail} alt={title} />
       <div className="itemMainInfo">
         <p className="itemPrice">$ {formatMoney(price)}</p>
         <p className="itemName">{title}</p>

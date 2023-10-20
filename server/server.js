@@ -25,6 +25,10 @@ app.get("/api/items", async (req, res) => {
       picture: result.thumbnail,
       condition: result.condition,
       free_shipping: result.shipping.free_shipping,
+      location: {
+        city: result.address.city_name,
+        state: result.address.state_name,
+      }
     }));
 
     const categoryFilter = response.data.filters.find(

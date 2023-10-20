@@ -1,4 +1,4 @@
-require('dotenv').config();
+require("dotenv").config();
 const express = require("express");
 const axios = require("axios");
 
@@ -11,7 +11,6 @@ app.use(express.json());
 app.get("/api/items", async (req, res) => {
   try {
     const query = req.query.search;
-    console.log(API)
     const mercadoLibreURL = `${API}/sites/MLA/search?q=${query}&limit=4`;
     const response = await axios.get(mercadoLibreURL);
 
@@ -28,9 +27,12 @@ app.get("/api/items", async (req, res) => {
       free_shipping: result.shipping.free_shipping,
     }));
 
-    const categories = response.data.filters
-      .find((filter) => filter.id === "category")
-      .values[0].path_from_root.map((category) => category.name);
+    const categoryFilter = response.data.filters.find(
+      (filter) => filter.id === "category"
+    );
+    const categories = categoryFilter
+      ? categoryFilter.values[0].path_from_root.map((category) => category.name)
+      : [];
 
     const author = {
       name: "Martín",

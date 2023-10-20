@@ -6,19 +6,6 @@ import {
 } from "react-router-dom";
 import App from "./App";
 
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Root />,
-//     children: [
-//       {
-//         path: "/items/:id",
-//         element: <Produc />,
-//       },
-//     ],
-//   },
-// ]);
-
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <BrowserRouter>

@@ -92,7 +92,6 @@ app.get("/api/items/:id", async (req, res) => {
       },
     };
 
-    // Add category info (if present)
     if (item.category_id) {
       const categoryURL = `${API}/categories/${item.category_id}`;
       const categoryResponse = await axios.get(categoryURL);

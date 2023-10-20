@@ -6,7 +6,7 @@
   margin: auto;
 
   article {
-    padding: 2rem;
+    padding: 2.5rem;
     display: flex;
     margin: auto;
     background-color: $white;
@@ -25,7 +25,8 @@
       img {
         max-width: 100%;
         height: 250px;
-        object-fit: contain; /* This property will ensure the entire image fits inside the container without distorting it. */
+        object-fit: contain;
+        margin: 2rem 0;
       }
 
       .description {

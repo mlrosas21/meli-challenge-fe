@@ -1,34 +1,26 @@
 @import "@styles/colors.scss";
 
-main {
-  background-color: $grey;
+header {
+  position: static;
+  top: 0;
+  background-color: $primary-color;
+  width: 100%;
+  display: flex;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
 
-  header {
-    position: static;
-    top: 0;
-    background-color: $primary-color;
-    width: 100%;
+  .container {
     display: flex;
-    height: 4rem;
     align-items: center;
-    justify-content: center;
-    gap: 1.5rem;
+    gap: 1rem;
+    width: 80vw;
+  }
 
-    /* Responsive Padding */
-    padding: 0 2rem; /* Default padding for smaller screens */
-
-    @media (min-width: 768px) {
-      padding: 0 6rem; /* Adjust padding for medium-sized screens */
-    }
-
-    @media (min-width: 1024px) {
-      padding: 0 12rem; /* Adjust padding for larger screens */
-    }
-
-    .imageContainer {
-      width: auto;
-      margin: auto;
-      display: flex;
-    }
+  .imageContainer {
+    width: auto;
+    margin: auto;
+    display: flex;
   }
 }

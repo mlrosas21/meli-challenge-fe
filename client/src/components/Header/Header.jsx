@@ -6,10 +6,12 @@ import SearchBar from "../SearchBar/SearchBar";
 function Header() {
   return (
     <header>
+      <div className="container">
       <Link to="/">
         <img src={logo} />
       </Link>
       <SearchBar />
+      </div>
     </header>
   );
 }

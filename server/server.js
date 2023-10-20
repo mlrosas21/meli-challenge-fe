@@ -88,9 +88,17 @@ app.get("/api/items/:id", async (req, res) => {
         condition: item.condition,
         free_shipping: item.shipping.free_shipping,
         sold_quantity: item.sold_quantity,
-        description: description.plain_text,
+        description: description.plain_text
       },
     };
+
+    // Add category info (if present)
+    if (item.category_id) {
+      const categoryURL = `${API}/categories/${item.category_id}`;
+      const categoryResponse = await axios.get(categoryURL);
+      const categoriesPath = categoryResponse.data.path_from_root.map((category) => category.name);
+      result.item.categories = categoriesPath;
+    }
 
     res.json(result);
   } catch (error) {

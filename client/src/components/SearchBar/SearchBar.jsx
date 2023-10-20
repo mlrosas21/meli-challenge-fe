@@ -1,17 +1,23 @@
 import searchLogo from "@assets/search.svg";
 import "./SearchBar.scss";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { useSearchParams } from "react-router-dom";
 
 function SearchBar() {
-  const [searchTerm, setSearchTerm] = useState();
-  const navigate = useNavigate()
+  const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
+  const [searchTerm, setSearchTerm] = useState('');
+
+  useEffect(() => {
+    const searchValue = searchParams.get("search");
+    setSearchTerm(searchValue || '');
+  }, [searchParams]);
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    const trimmedSearchTerm = searchTerm.trim();
-    if (trimmedSearchTerm === '') return
-    console.log(trimmedSearchTerm);
+    const trimmedSearchTerm = searchTerm?.trim();
+    if (!trimmedSearchTerm || trimmedSearchTerm === '') return
     navigate(`/items?search=${trimmedSearchTerm}`);
   };
 
@@ -24,7 +30,7 @@ function SearchBar() {
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       <button>
-        <img src={searchLogo}></img>
+        <img src={searchLogo} alt="Search" />
       </button>
     </form>
   );

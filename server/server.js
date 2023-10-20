@@ -1,15 +1,18 @@
-const express = require('express');
-const axios = require('axios');
+require('dotenv').config();
+const express = require("express");
+const axios = require("axios");
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000; // Default port if no defined
+const API = process.env.MERCADOLIBRE_API;
 
 app.use(express.json());
 
-app.get('/api/items', async (req, res) => {
+app.get("/api/items", async (req, res) => {
   try {
     const query = req.query.search;
-    const mercadoLibreURL = `https://api.mercadolibre.com/sites/MLA/search?q=${query}&limit=4`;
+    console.log(API)
+    const mercadoLibreURL = `${API}/sites/MLA/search?q=${query}&limit=4`;
     const response = await axios.get(mercadoLibreURL);
 
     const items = response.data.results.map((result) => ({
@@ -26,12 +29,12 @@ app.get('/api/items', async (req, res) => {
     }));
 
     const categories = response.data.filters
-      .find((filter) => filter.id === 'category')
+      .find((filter) => filter.id === "category")
       .values[0].path_from_root.map((category) => category.name);
 
     const author = {
-      name: 'Martín',
-      lastname: 'Rosas',
+      name: "Martín",
+      lastname: "Rosas",
     };
 
     const result = {
@@ -43,15 +46,15 @@ app.get('/api/items', async (req, res) => {
     res.json(result);
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Error en la solicitud' });
+    res.status(500).json({ error: "Error en la solicitud" });
   }
 });
 
-app.get('/api/items/:id', async (req, res) => {
+app.get("/api/items/:id", async (req, res) => {
   try {
     const id = req.params.id;
-    const itemURL = `https://api.mercadolibre.com/items/${id}`;
-    const descriptionURL = `https://api.mercadolibre.com/items/${id}/description`;
+    const itemURL = `${API}/items/${id}`;
+    const descriptionURL = `${API}/items/${id}/description`;
     const [itemResponse, descriptionResponse] = await Promise.all([
       axios.get(itemURL),
       axios.get(descriptionURL),
@@ -61,8 +64,8 @@ app.get('/api/items/:id', async (req, res) => {
     const description = descriptionResponse.data;
 
     const author = {
-      name: 'Martín',
-      lastname: 'Rosas',
+      name: "Martín",
+      lastname: "Rosas",
     };
 
     const result = {
@@ -86,7 +89,7 @@ app.get('/api/items/:id', async (req, res) => {
     res.json(result);
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Error en la solicitud' });
+    res.status(500).json({ error: "Error en la solicitud" });
   }
 });
 

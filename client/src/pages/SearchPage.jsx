@@ -1,7 +1,12 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, lazy } from "react";
 import { useSearchParams } from "react-router-dom";
 import { getItems } from "@service/items";
-import SearchResults from "../components/SearchResults/SearchResults";
+import { Suspense } from "react";
+import Loading from "@components/Loading/Loading";
+
+const SearchResults = lazy(() =>
+  import("../components/SearchResults/SearchResults")
+);
 
 function SearchPage() {
   const [searchParams] = useSearchParams();
@@ -24,8 +29,10 @@ function SearchPage() {
   }, [searchParams]);
 
   return (
-    <SearchResults data={response} />
-  )
+    <Suspense fallback={<Loading />}>
+      <SearchResults data={response} />
+    </Suspense>
+  );
 }
 
-export default SearchPage
+export default SearchPage;

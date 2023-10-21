@@ -1,7 +1,11 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, lazy, Suspense } from "react";
 import { useParams } from "react-router-dom";
 import { getItem } from "@service/items";
-import ProductDetails from "../components/ProductDetails/ProductDetails";
+import Loading from "@components/Loading/Loading";
+
+const ProductDetails = lazy(() =>
+  import("../components/ProductDetails/ProductDetails")
+);
 
 function ProductPage() {
   const { id } = useParams();
@@ -17,8 +21,10 @@ function ProductPage() {
   }, [id]);
 
   return (
-    <ProductDetails details={itemDetails} />
-  )
+    <Suspense fallback={<Loading />}>
+      <ProductDetails details={itemDetails} />
+    </Suspense>
+  );
 }
 
-export default ProductPage
+export default ProductPage;

@@ -1,11 +1,7 @@
-import './Breadcrumbs.scss'
+import "./Breadcrumbs.scss";
 
-function Breadcrumbs({categories}) {
-  return (
-    <div className='breadcrumbs'>
-      {categories.join(' > ')}
-    </div>
-  )
+function Breadcrumbs({ categories }) {
+  return <div className="breadcrumbs">{categories.join(" > ")}</div>;
 }
 
-export default Breadcrumbs
+export default Breadcrumbs;

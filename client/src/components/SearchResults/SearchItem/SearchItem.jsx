@@ -12,13 +12,13 @@ function SearchItem({ item }) {
   };
 
   return (
-    <article className="itemCard" onClick={() => handleClick(id)}>
+    <article className="card" onClick={() => handleClick(id)}>
       <img src={picture} alt={title} />
-      <div className="itemMainInfo">
-        <p className="itemPrice">$ {formatMoney(price.amount, price.decimals)}</p>
-        <p className="itemName">{title}</p>
+      <div className="item-main-info">
+        <p className="price">$ {formatMoney(price.amount, price.decimals)}</p>
+        <p className="title">{title}</p>
       </div>
-      <p className="stateName">{location.city}, {location.state}</p>
+      <p className="location">{location.city}, {location.state}</p>
     </article>
   );
 }

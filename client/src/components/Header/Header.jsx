@@ -7,10 +7,10 @@ function Header() {
   return (
     <header>
       <div className="container">
-      <Link to="/">
-        <img src={logo} alt="Logo Mercado Libre" className="logo" />
-      </Link>
-      <SearchBar />
+        <Link to="/">
+          <img src={logo} alt="Logo Mercado Libre" className="logo" />
+        </Link>
+        <SearchBar />
       </div>
     </header>
   );

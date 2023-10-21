@@ -7,17 +7,17 @@ import { useSearchParams } from "react-router-dom";
 function SearchBar() {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
     const searchValue = searchParams.get("search");
-    setSearchTerm(searchValue || '');
+    setSearchTerm(searchValue || "");
   }, [searchParams]);
 
   const handleSubmit = (event) => {
     event.preventDefault();
     const trimmedSearchTerm = searchTerm?.trim();
-    if (!trimmedSearchTerm || trimmedSearchTerm === '') return
+    if (!trimmedSearchTerm || trimmedSearchTerm === "") return;
     navigate(`/items?search=${trimmedSearchTerm}`);
   };
 

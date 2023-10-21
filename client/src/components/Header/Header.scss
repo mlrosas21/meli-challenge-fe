@@ -16,10 +16,10 @@ header {
     align-items: center;
     gap: 1rem;
     width: 80vw;
-  }
-
-  img{
-    width: auto;
-    height: auto;
+    
+    .logo{
+      width: auto;
+      height: 36px;
+    }
   }
 }

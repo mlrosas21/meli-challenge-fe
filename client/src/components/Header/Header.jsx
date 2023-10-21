@@ -8,7 +8,7 @@ function Header() {
     <header>
       <div className="container">
       <Link to="/">
-        <img src={logo} alt="Logo Mercado Libre"  />
+        <img src={logo} alt="Logo Mercado Libre" className="logo" />
       </Link>
       <SearchBar />
       </div>

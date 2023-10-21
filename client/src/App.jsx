@@ -1,8 +1,8 @@
 import "@styles/globals.scss";
 import Header from "@components/Header/Header";
-import SearchResults from "@components/SearchResults/SearchResults";
 import { Routes, Route, Navigate } from "react-router-dom";
-import ProductDetails from "./components/ProductDetails/ProductDetails";
+import SearchPage from "@pages/SearchPage";
+import ProductPage from "@pages/ProductPage";
 
 function App() {
   return (
@@ -10,8 +10,8 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" />
-        <Route path="/items" element={<SearchResults />} />
-        <Route path="/items/:id" element={<ProductDetails />} />
+        <Route path="/items" element={<SearchPage />} />
+        <Route path="/items/:id" element={<ProductPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </main>

@@ -7,7 +7,7 @@ export default defineConfig({
       { find: "@", replacement: "/src" },
       { find: "@assets", replacement: "/src/assets" },
       { find: "@components", replacement: "/src/components" },
-      { find: "@data", replacement: "/src/data" },
+      { find: "@mocks", replacement: "/src/mocks" },
       { find: "@styles", replacement: "/src/styles" },
       { find: "@routes", replacement: "/src/routes" },
       { find: "@service", replacement: "/src/service" },
@@ -22,6 +22,9 @@ export default defineConfig({
         secure: false,
       },
     },
+  },
+  test:{
+    environment: "jsdom"
   },
   plugins: [react()],
 });

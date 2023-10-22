@@ -1,5 +1,5 @@
 import "./ProductDetails.scss";
-import { formatMoney, formatCondition } from "@utils/formatter";
+import { formatMoney, formatCondition, formatAsTwoDigits } from "@utils/formatter";
 import Breadcrumbs from "@components/Breadcrumbs/Breadcrumbs";
 
 function ProductDetails({ details }) {
@@ -22,7 +22,7 @@ function ProductDetails({ details }) {
               vendido{details.sold_quantity > 1 ? "s" : ""}
             </small>
             <h1>{details.title}</h1>
-            <span className="price">$ {formatMoney(details.price.amount)}</span>
+            <span className="price">$ {formatMoney(details.price.amount)} <sup className="decimals">{formatAsTwoDigits(details.price.decimals)}</sup> </span>
             <button>Comprar</button>
           </section>
         </article>

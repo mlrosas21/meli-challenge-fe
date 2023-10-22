@@ -10,8 +10,6 @@ export function formatMoney(number) {
   return parts[0];
 }
 
-
-
 export function formatCondition(itemCondition){
   const CONDITION = {
     new: 'Nuevo',
@@ -20,4 +18,8 @@ export function formatCondition(itemCondition){
   }
 
   return CONDITION[itemCondition]
+}
+
+export function formatAsTwoDigits(number) {
+  return String(number).padStart(2, '0');
 }

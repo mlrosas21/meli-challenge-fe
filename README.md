@@ -12,6 +12,8 @@ El proyecto se realizó intentando ser fiel lo máximo posible al diseño enviad
 - si bien se agregó alguna funcionalidad mínima extra a lo solicitado, se procuró respetar los diseños adjuntos en el documento funcional.
 - desde el lado del servidor, se priorizó la simplicidad del mismo.
 
+Muchas gracias!
+
 ## Estructura de proyecto
 
 El proyecto está dividido en dos carpetas:
@@ -42,7 +44,7 @@ Servidor:
 
 ## Instalación y ejecución
 
-1.- Colnar el repositorio
+1.- Clonar el repositorio
 
 ```bash
   git clone https://github.com/mlrosas21/meli-challenge-fe

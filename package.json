@@ -1,0 +1,21 @@
+{
+  "name": "mercado-libre",
+  "version": "1.0.0",
+  "description": "Front end challenge - Mercado Libre",
+  "main": "index.js",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "start": "concurrently \"npm run start --workspace=server\" \"npm run dev --workspace=client\"",
+    "test": "npm run test --workspace=client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  }
+}

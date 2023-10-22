@@ -42,7 +42,7 @@ Servidor:
 
 ## Instalación y ejecución
 
-1.- Colnar el repositorio
+1.- Clonar el repositorio
 
 ```bash
   git clone https://github.com/mlrosas21/meli-challenge-fe

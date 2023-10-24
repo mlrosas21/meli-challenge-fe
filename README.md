@@ -4,15 +4,12 @@ Aplicación para búsqueda de artículos de Mercado Libre, la cual permite lista
 
 <img src="screenshot.png" alt="demo app screenshot" width="1000" height="auto">
 
-## Comentarios sobre la tarea
+## **BRANCH design-patterns**
 
-El proyecto se realizó intentando ser fiel lo máximo posible al diseño enviado, es por eso que:
-- se intentó minimizar el uso de librerías a lo mínimo posible.
-- se utilizó como lenguaje de programación JavaScript en lugar de TypeScript, por ejemplo, como indicado en el enunciado.
-- si bien se agregó alguna funcionalidad mínima extra a lo solicitado, se procuró respetar los diseños adjuntos en el documento funcional.
-- desde el lado del servidor, se priorizó la simplicidad del mismo.
-
-Muchas gracias!
+En esta rama, se optó por la abstracción de la página de producto. Para ello:
+- Se utilizó el patrón provider para evitar prop drilling en los componentes
+- Se utilizó el patrón compound components para mejorar la legibilidad y escalabilidad de la información de producto
+- Se creo un custom hook para modularizar el contexto propio del producto, contemplando que el mismo exista
 
 ## Estructura de proyecto
 

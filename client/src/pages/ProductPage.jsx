@@ -3,8 +3,8 @@ import { useParams } from "react-router-dom";
 import { getItem } from "@service/items";
 import Loading from "@components/Loading/Loading";
 
-const ProductDetails = lazy(() =>
-  import("../components/ProductDetails/ProductDetails")
+const Product = lazy(() =>
+  import("../components/Product/Product")
 );
 
 function ProductPage() {
@@ -22,7 +22,7 @@ function ProductPage() {
 
   return (
     <Suspense fallback={<Loading />}>
-      <ProductDetails details={itemDetails} />
+      <Product details={itemDetails} />
     </Suspense>
   );
 }

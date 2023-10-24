@@ -5,7 +5,7 @@
   width: 80vw;
   margin: auto;
 
-  .item-details {
+  .product {
     padding: 2.5rem;
     display: flex;
     margin: auto;
@@ -17,7 +17,7 @@
       flex-direction: column-reverse;
     }
 
-    div {
+    .item-details {
       display: flex;
       flex-direction: column;
       flex: 2;
